@@ -1,4 +1,4 @@
 # github-demo
 This is my first git repository.
-\n
+<br>
 Author - Suyash
